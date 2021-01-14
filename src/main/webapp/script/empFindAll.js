@@ -3,7 +3,6 @@ $(function () {
 })
 function findAll() {
     //1.获取请求参数
-    alert("123");
     //2.参数格式校验
     //3.返送Ajax
     $.ajax({
